@@ -58,13 +58,13 @@ body {
 
 @media only screen and (max-width: 550px) {
     #grid {
-        width: 350px;
-        height: 350px;
+        width: 325px;
+        height: 325px;
     }
     
     .square {
-        height: 8px;
-        width: 8px;
+        height: 7.5px;
+        width: 7.5px;
     }
 
     #buttonSection {
