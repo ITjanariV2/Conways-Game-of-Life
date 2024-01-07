@@ -61,12 +61,13 @@ body {
         width: 325px;
         height: 325px;
     }
-    
     .square {
         height: 7.5px;
         width: 7.5px;
     }
-
+    #buttonSection {
+        gap: 1em;
+    }
     #buttonSection {
         gap: 1em;
     }
