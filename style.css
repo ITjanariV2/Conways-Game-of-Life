@@ -72,3 +72,15 @@ body {
         gap: 1em;
     }
 }
+
+@media only screen and (max-width: 400px) {
+    #buttonSection {
+        flex-direction: column;
+        gap: 1.9em;
+    }
+    #buttonSection > button {
+        width: 185px;
+        height: 50px;
+        font-size: 1.25em;
+    }
+}
